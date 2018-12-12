@@ -6,11 +6,11 @@ draft: false
 
 ## Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.
 
-Interestingly, I first used the Hugo site I set up in 2017 which hasn't seen much use recently. I used Hugo back in 2017 because I liked the simplicity of it's syntax (TOML) and it seemed to be a relatively active project. I really liked a specific theme (the Nix theme by LordMathis) and this was a large factor in my decision to use Hugo. That it is written in Go is another big selling point.
+Interestingly, I first used the Hugo site I set up in 2017 which hasn't seen much use recently. I used Hugo back in 2017 because I liked the simplicity of it's syntax (TOML) and it seemed to be a relatively active project. I really liked a specific theme (the Nix theme by LordMathis) and this was a large factor in my decision to use Hugo. That it is written in Go and wonderful efficient is another big selling point.
 
-However, this was me missing that the site I create should contain these answers to the test! I therefore needed to make a new Hugo site (not use my existing one).
+However, this was me missing that the site I create should contain the answers to the test! I therefore needed to make a new Hugo site (not use my existing one).
 
-For the new site, I chose the KISS theme because I believe in the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle). I was also just trying to 'get it done' not make it look fancy.
+For the new site, I chose the KISS theme because I believe in the [principle](https://en.wikipedia.org/wiki/KISS_principle). I was also just trying to 'get it done' not make it look fancy.
 
 My original Hugo site was deployed from a personal system (the web server is in my home). When I update the site locally I use a bash script to automate pushing the updated content the site root used by Nginx. Then getting SSL working and configured was another learning process (Let's Encrypt).
 
