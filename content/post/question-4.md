@@ -1,7 +1,7 @@
----
 title: "Question 4"
+---
 date: 2018-12-11T21:46:15-08:00
-draft: true
+draft: false
 ---
 
 ## Talk about how you made your site and why you chose the tools you did.  Briefly explain a challenge you experienced in setting up this site and how you solved it.
@@ -18,4 +18,4 @@ I think you have just made a customer as I am sold! With Netlify, now all I need
 
 I didn't realize Netlify already would do these things for me. Why wasn't I using Netlify before this application process?!?!
 
-Last but not least, one of my biggest challenges was how to include a theme in my git repo which itself was a git repo. I didn't know much about the git submodule command. I used it based on a recommendation from git itself only to later find out (in the [Hugo docs](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme)) that I had done so correctly.
+Last but not least, one of my biggest challenges was how to include a theme in my git repo which itself was a git repo. I didn't know much about the git submodule command. I used it based on a recommendation from git itself only to later find out (in the [Hugo docs](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme)) that I had done so correctly. However, this caused the site not to build as I made modifications to the theme and I couldn't push those to the master repo (nor should I). Then I got to learn about how hard it is to remove submodules in git so I could add the theme again, this time not as a submodule. This was a learning experience to say the least.

@@ -1,7 +1,7 @@
 ---
 title: "Question 10"
 date: 2018-12-11T21:46:03-08:00
-draft: true
+draft: false
 ---
 
 ## Could you give us a suggestion to improve this test or the job posting?

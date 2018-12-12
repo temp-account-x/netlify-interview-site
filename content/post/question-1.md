@@ -1,7 +1,7 @@
 ---
 title: "Question 1"
 date: 2018-12-11T21:46:22-08:00
-draft: true
+draft: false
 ---
 
 ### Rank your 5 favorite, and 5 least favorite, activities from [this list](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6). ###

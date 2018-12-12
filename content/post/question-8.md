@@ -1,7 +1,7 @@
 ---
 title: "Question 8"
 date: 2018-12-11T21:46:07-08:00
-draft: true
+draft: false
 ---
 
 ## A customer writes in saying their “site won’t build”.  Compose:

@@ -1,7 +1,7 @@
 ---
 title: "Question 9"
 date: 2018-12-11T21:46:05-08:00
-draft: true
+draft: false
 ---
 
 ## Can you set up a redirect from “/netlify/anything” to https://www.google.com/search?q=anything ?

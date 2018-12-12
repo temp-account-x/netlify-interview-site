@@ -1,7 +1,7 @@
 ---
 title: "Question 7"
 date: 2018-12-11T21:46:09-08:00
-draft: true
+draft: false
 ---
 
 ## Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.
