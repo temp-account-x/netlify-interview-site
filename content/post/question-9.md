@@ -13,3 +13,7 @@ I thought adding the following to `static/_redirects` would do the trick:
 ```
 
 This does redirect to google but does not include the text after /netlify/ in the URL to be included in the search. I would love to know what I am missing as it seems I am close, but not exactly correct.
+
+Here is an example URL:
+
+https://netlify.of-mu.org/netlify/example
